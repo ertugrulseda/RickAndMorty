@@ -19,6 +19,7 @@
   align-items: center;
   text-decoration: none;
   margin-left: 20px;
+  margin-bottom: 70px;
 
 }
 
@@ -31,18 +32,19 @@
 }
 
 .toolbar-li{
-  display: flex;
+  /* display: flex;
+  height: 123px;  */
   padding: 0 15px;
   text-decoration: none;
-  height: 123px;
+   
 }
 
 .link{
   text-decoration: none;
   color:#8fef61;
   font-size:35px;
-  margin-top: 70px;
-  border-radius: 5px;
+   margin-top: 70px;
+  /*border-radius: 5px; */
 }
 
 .toolbar-li:hover
